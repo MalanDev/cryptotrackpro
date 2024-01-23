@@ -1,4 +1,4 @@
-package com.malandev.cryptotrackpro.ui.theme
+package com.malandev.cryptotrackpro.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

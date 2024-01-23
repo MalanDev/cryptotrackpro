@@ -1,4 +1,4 @@
-package com.malandev.cryptotrackpro.ui.theme
+package com.malandev.cryptotrackpro.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
